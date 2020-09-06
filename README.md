@@ -26,16 +26,13 @@ Installation of NPM on windows
 
 
 Open eclipse
-Clone the repository from 
+Clone the repository from https://github.com/abscool88/codebase2.git
 
 
-Reporting in Protractor
-
-Protractor-beautiful- reporter
-changes in the config file
+Steps for Reporting in Protractor
 
 Open CMD
-#npm install protractor-beautiful-reporter --save-dev
+npm install protractor-beautiful-reporter --save-dev
 
 
 
